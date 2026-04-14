@@ -1,0 +1,16 @@
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz_do_rejestracji_użytkowników.Form1.resources
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.csproj.GenerateResource.cache
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.AssemblyInfo.cs
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\bin\Debug\net10.0-windows\formularz do rejestracji użytkowników.exe
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\bin\Debug\net10.0-windows\formularz do rejestracji użytkowników.deps.json
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\bin\Debug\net10.0-windows\formularz do rejestracji użytkowników.runtimeconfig.json
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\bin\Debug\net10.0-windows\formularz do rejestracji użytkowników.dll
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\bin\Debug\net10.0-windows\formularz do rejestracji użytkowników.pdb
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.dll
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\refint\formularz do rejestracji użytkowników.dll
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.pdb
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\formularz do rejestracji użytkowników.genruntimeconfig.cache
+C:\Users\Lara\source\repos\formularz do rejestracji użytkowników\formularz do rejestracji użytkowników\obj\Debug\net10.0-windows\ref\formularz do rejestracji użytkowników.dll
